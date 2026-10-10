@@ -116,9 +116,10 @@ The execution pipeline automatically generates high-resolution figures in the [`
 
 ## 📄 Project Deliverables
 
+- 📓 **Unified Submission Jupyter Notebook**: [`MBS_Prepayment_Prediction.ipynb`](file:///c:/Users/pranay/Downloads/iot/MBS_Prepayment_Prediction.ipynb) *(Complete, standalone, self-contained pipeline alternative)*
 - 📄 **2-Page Project Summary Write-Up PDF**: [`outputs/Mortgage_Prepayment_Prediction_Report.pdf`](file:///d:/Downloads/iot/outputs/Mortgage_Prepayment_Prediction_Report.pdf)
 - 📊 **Presentation Deck Outline**: [`PRESENTATION.md`](file:///d:/Downloads/iot/PRESENTATION.md)
-- 💻 **Complete Source Code**:
+- 💻 **Complete Modular Source Code**:
   - [`main.py`](file:///d:/Downloads/iot/main.py): Pipeline runner
   - [`dataset_generator.py`](file:///d:/Downloads/iot/dataset_generator.py): Data synthesis engine
   - [`preprocessing.py`](file:///d:/Downloads/iot/preprocessing.py): Preprocessing & PCA
